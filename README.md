@@ -1,4 +1,4 @@
-# Configuración
+# Configuración Prueba
 La aplicación permitirá registrarse e ingresar utilizando Json-Server
 
 ```
